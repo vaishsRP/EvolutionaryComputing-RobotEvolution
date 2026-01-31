@@ -1,4 +1,4 @@
-# Evolutionary_Computing-
+# Evolutionary_Computing
 
 This project implements an evolutionary algorithm that jointly evolves a robot’s **morphology** (body structure) and **controller** to maximize task performance in the ARIEL simulation environment.
 
